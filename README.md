@@ -1,4 +1,6 @@
-# Project 1: How does a Bike-Share navigate speedy success?
+# Huong Vo's Data Science Portfolio
+
+## Project 1: How does a Bike-Share navigate speedy success?
 * Import and merge the latest 12 months data of Cyclistic's trips 
 * Perform data wrangling using Pandas, Numpy
 * Perform data analysis using Python
