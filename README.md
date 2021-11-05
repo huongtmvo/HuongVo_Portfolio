@@ -6,3 +6,4 @@
 * Create different data visualization using Seaborn, Matplotlib
 * Derive insights into how annual members are different from casual members.
 * Recommendation for the marketing team to attract more casual riders to convert to annual membership.
+![](https://github.com/huongvo99/HuongVo_Portfolio/blob/main/images/img1.png)
