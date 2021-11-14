@@ -35,4 +35,4 @@ In this project, I used previous dataset on Boston's housing prices from U.S. Ce
 * Create data visualization using seaborn library
 * Perfom hypothesis testing and regression analysis using scipy.stats, statsmodels
 
-![](/images/Screen%20Shot%202021-11-13%20at%208.42.44%20PM.png)
+![](https://github.com/huongvo99/HuongVo_Portfolio/blob/main/images/Screen%20Shot%202021-11-13%20at%208.42.44%20PM.png)
