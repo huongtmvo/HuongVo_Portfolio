@@ -26,3 +26,13 @@ Cyclistic, a bike_sharing company want to know how its member riders are differe
 * Recommendation for the marketing team to attract more casual riders to convert to annual membership.
 
 ![](/images/img1.png)
+
+
+# [Analyzing Boston's house prices](https://github.com/huongvo99/housing_project/blob/main/housing_project.ipynb)
+In this project, I used previous dataset on Boston's housing prices from U.S. Census Service to derive new insights in order to help business make an informed decision.
+
+* Perform descriptive statistics to gain understanding of the data
+* Create data visualization using seaborn library
+* Perfom hypothesis testing and regression analysis using scipy.stats, statsmodels
+
+![](/images/Screen%20Shot%202021-11-13%20at%208.42.44%20PM.png)
